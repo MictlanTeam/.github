@@ -28,11 +28,13 @@ Como las deidades del Mictlán, nuestros robots son guerreros tecnológicos que 
 
 | Nombre | Categoría | Placa/Controlador | Estado | Repositorio |
 |--------|-----------|-------------------|--------|-------------|
-| **Mictlantecuhtli** | Minisumo | ESP32 | ✅ Activo | [Ver repo](#) |
-| **Xólotl** | Seguidor de Línea | Arduino Nano | ✅ Activo | [Ver repo](#) |
-| **Itzcuintli** | Minisumo | STM32 | 🚧 En desarrollo | [Ver repo](#) |
-| **Obsidiana** | Seguidor de Línea | ESP32 | 📋 Planeado | - |
-| **Mictecacíhuatl** | Sumo | Raspberry Pi Pico | 🔧 Prototipo | [Ver repo](#) |
+| **Cipactli** | Seguidor de Línea | STM32 Blue Pill | ✅ Activo | [Ver repo](https://github.com/MictlanTeam/Cipactli) |
+| **Itztli** | Minisumo | [Placa] | ✅ Activo | [Ver repo](https://github.com/MictlanTeam/Itztli) |
+| **Ocelotl** | Microsumo | [Placa] | ✅ Activo | [Ver repo](https://github.com/MictlanTeam/Ocelotl) |
+| **Mixcoatl** | Minisumo | [Placa] | ✅ Activo | [Ver repo](https://github.com/MictlanTeam/Mixcoatl) |
+
+### 📚 Recursos
+- **[MictlanTeam Library](https://github.com/MictlanTeam/MictlanTeam-Library)** - Librería de componentes para KiCad
 
 ---
 
