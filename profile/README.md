@@ -190,8 +190,8 @@ Ver archivos LICENSE en cada repositorio para más detalles.
 
 <div align="center">
 
-### *"In chicunamictlan timotlatzitzique, in tlalticpac ticpiyah"*
-### *"En los nueve niveles nos forjamos, en la tierra conquistamos"*
+### *"Mictlan titlaixpolihui, tlalticpac tictepehuilia"*
+### *"En el Mictlán nos forjamos, en la tierra conquistamos"*
 
 **🔥 Forjado con pasión en Nayarit, México 🔥**
 
