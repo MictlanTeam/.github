@@ -1,4 +1,4 @@
-# 💀 Mictlán Team
+# Mictlán Team
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MictlanTeam/.github/main/images/logo.png" alt="Mictlán Team Logo" width="200"/>
@@ -135,13 +135,13 @@ Como las deidades del Mictlán, nuestros robots son guerreros tecnológicos que 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/[usuario1]">
-        <img src="https://github.com/[usuario1].png" width="100px;" alt=""/>
+      <a href="https://github.com/safloresmo">
+        <img src="https://github.com/safloresmo.png" width="100px;" alt=""/>
         <br />
-        <sub><b>[Nombre]</b></sub>
+        <sub><b>Sergio Flores</b></sub>
       </a>
       <br />
-      <sub>Líder / Programación</sub>
+      <sub>Líder</sub>
     </td>
     <td align="center">
       <a href="https://github.com/[usuario2]">
@@ -150,7 +150,7 @@ Como las deidades del Mictlán, nuestros robots son guerreros tecnológicos que 
         <sub><b>[Nombre]</b></sub>
       </a>
       <br />
-      <sub>Electrónica / PCB</sub>
+      <sub>Miembro</sub>
     </td>
     <td align="center">
       <a href="https://github.com/[usuario3]">
@@ -159,7 +159,7 @@ Como las deidades del Mictlán, nuestros robots son guerreros tecnológicos que 
         <sub><b>[Nombre]</b></sub>
       </a>
       <br />
-      <sub>Diseño Mecánico</sub>
+      <sub>Miembro</sub>
     </td>
     <td align="center">
       <a href="https://github.com/[usuario4]">
@@ -168,32 +168,10 @@ Como las deidades del Mictlán, nuestros robots son guerreros tecnológicos que 
         <sub><b>[Nombre]</b></sub>
       </a>
       <br />
-      <sub>Testing / Estrategia</sub>
+      <sub>Miembro</sub>
     </td>
   </tr>
 </table>
-
-### Estructura del Equipo
-- 🎯 **Líder de Proyecto**: [Nombre]
-- 💻 **Programación y Software**: [Nombres]
-- ⚡ **Electrónica y PCB**: [Nombres]
-- 🔧 **Diseño Mecánico**: [Nombres]
-- 🏁 **Pilotos y Estrategia**: [Nombres]
-- 📱 **Comunicación y Media**: [Nombres]
-
----
-
-## 🤝 Comunidad y Colaboración
-
-### ¿Quieres unirte o colaborar?
-
-Siempre estamos abiertos a nuevos miembros y colaboraciones:
-
-1. ⭐ Da una estrella a nuestros repositorios
-2. 🍴 Haz fork de nuestros proyectos
-3. 🐛 Reporta bugs o sugiere mejoras
-4. 📖 Mejora nuestra documentación
-5. 💡 Comparte tus ideas en [Discussions](https://github.com/orgs/MictlanTeam/discussions)
 
 ---
 
@@ -201,39 +179,20 @@ Siempre estamos abiertos a nuevos miembros y colaboraciones:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@mictlanteam.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mictlanteam)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mictlanteam)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mictlanteam)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mictlanteam)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@mictlanteam)
+[![Website](https://img.shields.io/badge/Website-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mictlanteam.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5213111351394)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mictlan_team)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MictlanTeam)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Team_Mictlan)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mictlan_team)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MictlanTeam)
 
 </div>
 
-- 📧 **Email**: contacto@mictlanteam.com
+- 🌐 **Website**: [www.mictlanteam.com](https://www.mictlanteam.com/)
+- 📱 **WhatsApp**: +52 1 311 135 1394
+- 📧 **Instagram**: @mictlan_team
 - 📍 **Ubicación**: Nayarit, México
-- 🌐 **Website**: [en construcción]
-- 💬 **Discord**: Únete a nuestra comunidad
-
----
-
-## 💫 Agradecimientos
-
-### Patrocinadores y Colaboradores
-
-Agradecemos el apoyo de instituciones, empresas y personas que hacen posible nuestro trabajo:
-
-- [Nombre de institución/empresa]
-
-### ¿Quieres apoyarnos?
-
-Si crees en nuestro proyecto y quieres patrocinar al equipo:
-- 🤝 Patrocinio corporativo
-- 🎁 Donación de componentes
-- 🏫 Espacios para trabajo
-- 📚 Recursos educativos
-
-Contáctanos en: [email de patrocinios]
 
 ---
 
@@ -263,54 +222,3 @@ Ver archivos LICENSE en cada repositorio para más detalles.
 🏴‍☠️ Del Mictlán venimos, al podio vamos 🏴‍☠️
 
 </div>
-
-| Nombre | Significado | Tipo/Placa | Link |
-|--------|-------------|------------|------|
-| Mictlantecuhtli | Señor del Mictlán, dios principal de los muertos | | |
-| Mictecacíhuatl | Señora de los muertos, esposa de Mictlantecuhtli | | |
-| Xólotl | Dios perro que guía las almas al inframundo | | |
-| Tzitzimitl | Demonios esqueléticos del inframundo | | |
-| Nextepehua | Esparcidor de cenizas | | |
-| Chalmecatecuhtli | Señor de la casa de sacrificios | | |
-| Chicunamictlán | Los nueve lugares de los muertos | | |
-| Itzcuintlán | Lugar de los perros, primer nivel del Mictlán | | |
-| Tepectli Monamictlán | Lugar donde se encuentran las montañas (montañas que chocan) | | |
-| Iztepetl | Montaña de obsidiana/navajas | | |
-| Itzehecayan | Lugar del viento de obsidiana | | |
-| Paniecatacoyan | Lugar donde flotan las banderas | | |
-| Temiminaloyan | Lugar donde te flechan | | |
-| Teocoyohuehualoyan | Lugar donde las fieras devoran corazones | | |
-| Apanohuayan | Lugar del río (el río que hay que cruzar) | | |
-| Chiconahuapan | Río de nueve aguas | | |
-| Mictli | Muerte | | |
-| Mictlán | Lugar de los muertos | | |
-| Itzcuintli | Perro, animal sagrado guía de almas | | |
-| Xoloitzcuintli | Perro de Xólotl, raza de perro sin pelo | | |
-| Obsidiana | Piedra volcánica negra, sagrada del inframundo | | |
-| Tezcatl | Espejo (de obsidiana) | | |
-| Tecpatl | Pedernal/cuchillo de sacrificio | | |
-| Yohualli | Noche | | |
-| Tliltic | Negro/oscuro | | |
-| Ehecatl | Viento | | |
-| Cipactli | Cocodrilo/caimán primordial | | |
-| Tonalli | Destino/alma/calor vital | | |
-| Nahualli | Espíritu protector/nahual | | |
-| Tlalmictli | Muerte de la tierra | | |
-| Yohualmictli | Muerte nocturna | | |
-| Itztli | Obsidiana | | |
-| Necuametl | Ambos lados (dualidad vida-muerte) | | |
-| Tonalmictli | Muerte del destino | | |
-| Atlmictli | Muerte acuática | | |
-| Teomictli | Muerte divina | | |
-| Tlilmictli | Muerte negra | | |
-| Xiuh | Turquesa/hierba/año/cometa | | |
-| Coatl | Serpiente | | |
-| Tletl | Fuego | | |
-| Atl | Agua | | |
-| Oztotl | Cueva | | |
-| Miqui | Morir (verbo) | | |
-| Tepeyollotl | Corazón de la montaña, jaguar del inframundo | | |
-| Coyolxauhqui | Diosa lunar desmembrada | | |
-| Tlaltecuhtli | Señor/a de la tierra, monstruo primordial | | |
-| Tzontémoc | Cabeza que cae | | |
-| Nexoxocho | Flor de cenizas | | |
