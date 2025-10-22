@@ -15,7 +15,7 @@
 
 ## 🔥 Sobre Nosotros
 
-Somos **Mictlán Team**, un equipo de robótica competitiva con base en **Nayarit, México**, fundado en [año]. Nuestro nombre proviene del Mictlán, el inframundo de la mitología mexica, simbolizando los nueve desafíos que enfrentamos en cada competencia, al igual que las almas que atravesaban los nueve niveles del inframundo.
+Somos **Mictlán Team**, un equipo de robótica competitiva y hadware libre con base en **Nayarit, México**, fundado en 2024. Nuestro nombre proviene del Mictlán, el inframundo de la mitología mexica, simbolizando los nueve desafíos que enfrentamos en cada competencia, al igual que las almas que atravesaban los nueve niveles del inframundo.
 
 ### Nuestra Filosofía
 Como las deidades del Mictlán, nuestros robots son guerreros tecnológicos que enfrentan cada reto con determinación. Cada máquina lleva un nombre inspirado en la mitología mexica, honrando nuestras raíces mientras conquistamos el futuro de la robótica.
