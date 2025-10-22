@@ -1,7 +1,7 @@
 # 💀 Mictlán Team
 
 <div align="center">
-  <img src="[URL de tu logo]" alt="Mictlán Team Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/MictlanTeam/.github/main/images/logo.png" alt="Mictlán Team Logo" width="200"/>
   
   ### Equipo de robótica competitiva inspirado en la mitología mexica
   
@@ -20,15 +20,9 @@ Somos **Mictlán Team**, un equipo de robótica competitiva con base en **Nayari
 ### Nuestra Filosofía
 Como las deidades del Mictlán, nuestros robots son guerreros tecnológicos que enfrentan cada reto con determinación. Cada máquina lleva un nombre inspirado en la mitología mexica, honrando nuestras raíces mientras conquistamos el futuro de la robótica.
 
-### Especialidades
-- 🏁 **Robots Seguidores de Línea** - Velocidad y precisión en cada trazo
-- ⚔️ **Minisumos** - Combate estratégico en el dohyo
-- 🤖 **Robots de Competencia** - Diseñados para ganar
-- 🔓 **Hardware Libre** - Código abierto y documentación para la comunidad
-
 ---
 
-## 🤖 Nuestros Robots
+## 🤖 Nuestros Robots y Proyectos
 
 ### Arsenal Activo
 
@@ -40,64 +34,87 @@ Como las deidades del Mictlán, nuestros robots son guerreros tecnológicos que 
 | **Obsidiana** | Seguidor de Línea | ESP32 | 📋 Planeado | - |
 | **Mictecacíhuatl** | Sumo | Raspberry Pi Pico | 🔧 Prototipo | [Ver repo](#) |
 
-### 🏁 Seguidores de Línea
-
-Robots diseñados para seguir trazos con máxima velocidad y precisión:
-- Sensores infrarrojos de alta sensibilidad
-- Algoritmos PID optimizados
-- Control de motores brushless
-- Telemetría en tiempo real
-
-### ⚔️ Minisumos
-
-Guerreros del dohyo listos para el combate:
-- Sistema de detección de oponentes
-- Sensores de borde del ring
-- Motores de alta torque
-- Estrategias de ataque programables
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div align="center">
-
+### Microcontroladores y Placas
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ATtiny](https://img.shields.io/badge/-ATtiny-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### Lenguajes de Programación
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![MicroPython](https://img.shields.io/badge/-MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### IDEs y Editores
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+### Diseño y CAD
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/-FreeCAD-E13B2A?style=for-the-badge&logo=freecad&logoColor=white)
+![Autodesk](https://img.shields.io/badge/-Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-5588FF?style=for-the-badge&logo=easyeda&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-</div>
+### Simulación y Análisis
+![Proteus](https://img.shields.io/badge/-Proteus-1C79B5?style=for-the-badge&logo=proteus&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/-Tinkercad-1C8AC7?style=for-the-badge&logo=autodesk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### Microcontroladores y Placas
-- **ESP32** - WiFi, Bluetooth, alto rendimiento
-- **Arduino Nano/Uno** - Compacto y confiable
-- **STM32** - Máximo poder de procesamiento
-- **Raspberry Pi Pico** - ARM Cortex-M0+ de bajo costo
-- **ATtiny85** - Soluciones minimalistas
+### Control de Versiones
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### Sensores
-- Infrarrojos (QTR-8A, TCRT5000)
-- Ultrasónicos (HC-SR04)
-- Sharp GP2Y0A21YK
-- IMU MPU6050
-- Encoders magnéticos
+### Sistemas Operativos
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Raspberry Pi OS](https://img.shields.io/badge/-Raspberry%20Pi%20OS-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-### Actuadores
-- Motores DC con reductores metálicos
-- Motores brushless
-- Servomotores de alta velocidad
-- Drivers L298N, TB6612FNG, DRV8833
+### Comunicación y Protocolos
+![I2C](https://img.shields.io/badge/-I2C-00599C?style=for-the-badge&logo=i2c&logoColor=white)
+![SPI](https://img.shields.io/badge/-SPI-00599C?style=for-the-badge&logo=spi&logoColor=white)
+![UART](https://img.shields.io/badge/-UART-00599C?style=for-the-badge&logo=uart&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/-Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![WiFi](https://img.shields.io/badge/-WiFi-000000?style=for-the-badge&logo=wifi&logoColor=white)
+![LoRa](https://img.shields.io/badge/-LoRa-00A9CE?style=for-the-badge&logo=semtech&logoColor=white)
 
-### Software y Herramientas
-- **Lenguajes**: C/C++, Python, MicroPython
-- **IDEs**: Arduino IDE, PlatformIO, VS Code
-- **Diseño PCB**: KiCad, EasyEDA
-- **CAD 3D**: Fusion 360, FreeCAD
-- **Simulación**: Proteus, Tinkercad
-- **Control de versiones**: Git, GitHub
+### Herramientas de Desarrollo
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Make](https://img.shields.io/badge/-Make-427819?style=for-the-badge&logo=make&logoColor=white)
+
+### Documentación
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+### Redes Sociales y Comunicación
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+### Manufactura
+![3D Printing](https://img.shields.io/badge/-3D%20Printing-FF6B00?style=for-the-badge&logo=3dprinting&logoColor=white)
+![CNC](https://img.shields.io/badge/-CNC-1C79B5?style=for-the-badge&logo=cnc&logoColor=white)
+![PCB](https://img.shields.io/badge/-PCB-314CB0?style=for-the-badge&logo=pcb&logoColor=white)
+
+### Frameworks y Librerías
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 ---
 
@@ -108,21 +125,6 @@ Guerreros del dohyo listos para el combate:
 - 🏅 **[Año]** - [Competencia Regional] - Mejor diseño mecánico
 - ⚡ **[Año]** - [Hackathon/Evento] - Premio a la innovación
 - 🎖️ **[Año]** - [Reconocimiento institucional]
-
----
-
-## 📚 Recursos y Documentación
-
-### Para la Comunidad
-Creemos en el hardware y software libre. Aquí encontrarás:
-
-- 📖 **[Wiki del equipo](link)** - Tutoriales y guías completas
-- 🎓 **[Documentación técnica](link)** - Esquemáticos y diseños
-- 📐 **[Modelos 3D](link)** - STL y archivos CAD
-- 🔌 **[PCBs Open Source](link)** - Gerbers y archivos KiCad
-- 💻 **[Código fuente](link)** - Librerías y ejemplos
-- 📹 **[Videos tutoriales](link)** - Canal de YouTube
-- 📝 **[Blog técnico](link)** - Artículos y tips
 
 ---
 
@@ -193,37 +195,6 @@ Siempre estamos abiertos a nuevos miembros y colaboraciones:
 4. 📖 Mejora nuestra documentación
 5. 💡 Comparte tus ideas en [Discussions](https://github.com/orgs/MictlanTeam/discussions)
 
-### Contribuir al código
-```bash
-# 1. Fork el repositorio
-# 2. Clona tu fork
-git clone https://github.com/tu-usuario/nombre-repo.git
-
-# 3. Crea una rama para tu feature
-git checkout -b feature/NuevaCaracteristica
-
-# 4. Haz tus cambios y commit
-git commit -m 'Add: Nueva característica asombrosa'
-
-# 5. Push a tu rama
-git push origin feature/NuevaCaracteristica
-
-# 6. Abre un Pull Request
-```
-
----
-
-## 🎓 Talleres y Capacitación
-
-Ofrecemos talleres y capacitaciones en:
-- Introducción a la robótica
-- Programación de microcontroladores
-- Diseño de PCBs
-- Estrategias para competencias
-- Hardware libre y open source
-
-📧 Contáctanos para más información
-
 ---
 
 ## 📫 Contacto
@@ -252,8 +223,6 @@ Ofrecemos talleres y capacitaciones en:
 
 Agradecemos el apoyo de instituciones, empresas y personas que hacen posible nuestro trabajo:
 
-- [Nombre de institución/empresa]
-- [Nombre de institución/empresa]
 - [Nombre de institución/empresa]
 
 ### ¿Quieres apoyarnos?
