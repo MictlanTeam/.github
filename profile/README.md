@@ -7,7 +7,7 @@
 
   **🏴‍☠️ Desde Nayarit para el mundo 🏴‍☠️**
 
-  [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.mictlanteam.com&style=flat-square&label=website)](https://mictlanteam.com)
+  [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.mictlanteam.com&style=flat-square&label=website)](https://www.mictlanteam.com)
   [![GitHub followers](https://img.shields.io/github/followers/MictlanTeam?style=social)](https://github.com/MictlanTeam)
   [![GitHub stars](https://img.shields.io/github/stars/MictlanTeam?style=social)](https://github.com/MictlanTeam)
   [![Instagram](https://img.shields.io/badge/Instagram-@mictlan__team-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/mictlan_team)
