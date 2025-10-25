@@ -120,6 +120,15 @@ Como las deidades del Mictlán, nuestros robots son guerreros tecnológicos que 
       <br />
       <sub>Diseñador Mecánico</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/Bastianwicks">
+        <img src="https://github.com/Bastianwicks.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Sebastian</b></sub>
+      </a>
+      <br />
+      <sub>Diseñador Layaou</sub>
+    </td>
   </tr>
 </table>
 
